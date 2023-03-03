@@ -7,7 +7,7 @@ const {
   createUrgentImportantTask,
   updateUrgentImportantTask,
   deleteUrgentImportantTask,
-} = require("../../controllers/tasks/UrgentImportant");
+} = require("../../controllers/tasks/urgentImportant");
 
 router
   .route("/")
